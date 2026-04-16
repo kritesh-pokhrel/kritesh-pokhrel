@@ -36,22 +36,20 @@
 
 ###
 
-<h3 align="center">Connect with me</h3>
-
 <p align="center">
   <a href="https://twitter.com/pokhrel_kritesh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" height="30" width="30" />
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" height="30" style="margin: 0 10px;" />
   </a>
-  
+
   <a href="https://linkedin.com/in/kritesh-pokhrel-512b20244" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="30" style="margin: 0 10px;" />
   </a>
-  
+
   <a href="https://fb.com/kritesh.pokhrel.9" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="30" width="30" />
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="30" style="margin: 0 10px;" />
   </a>
-  
+
   <a href="https://instagram.com/kritesh_pokhrel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" width="30" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png" height="30" style="margin: 0 10px;" />
   </a>
 </p>
